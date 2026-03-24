@@ -1,0 +1,21 @@
+.vscode/
+
+# C/C++ build artifacts
+*.out
+*.exe
+*.app
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.lib
+*.d
+
+# Build directories / generated build files
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
